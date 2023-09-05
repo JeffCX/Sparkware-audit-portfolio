@@ -2,7 +2,7 @@
 
 Feel free to schedule a meeting
 
-https://calendly.com/crypto-jeff/30min
+https://calendly.com/sparkware-booking/30min
 
 and please fill out this google form
 
@@ -16,11 +16,11 @@ To illustrate the significance of the security risks, this year, Euler Finance, 
 
 ## Auditing
 
-By taking a proactive approach to security, you can establish a strong foundation for your web3 project and ensure its long-term success. Shadow Force Auditing is a group of  a blockchain security researchers and smart contract auditors whose expertise has been tested in securing some of the largest web3 protocols, such as The Graph and the Optimism Layer 2 blockchain. Shadow Force Auditing is a group of respected security researchers lead by Jeff, a white-hat hacker in [Immunefi](https://immunefi.com/), as well as a senior auditor in [Sherlock](https://app.sherlock.xyz/audits/leaderboard), an auditing and DeFi insurance platform. The auditing services use a bug bounty-based model, which means you only pay for bugs that are found, not the time it takes to find them. This approach incentivizes auditors to find as many bugs as possible, ensuring that the code is secure before it goes live.
+By taking a proactive approach to security, you can establish a strong foundation for your web3 project and ensure its long-term success. Sparkware  Auditing is a group of  a blockchain security researchers and smart contract auditors whose expertise has been tested in securing some of the largest web3 protocols, such as The Graph and the Optimism Layer 2 blockchain. Sparkware  Auditing is a group of respected security researchers lead by Jeff, a white-hat hacker in [Immunefi](https://immunefi.com/), as well as a senior auditor in [Sherlock](https://app.sherlock.xyz/audits/leaderboard), an auditing and DeFi insurance platform. The auditing services use a bug bounty-based model, which means you only pay for bugs that are found, not the time it takes to find them. This approach incentivizes auditors to find as many bugs as possible, ensuring that the code is secure before it goes live.
 
 ## Introduction:
 
-Shadow force smart contract security auditing offers a unique approach to projects that differs from traditional methods. Price is charged based on the number of bugs found in the codebase, rather than an hourly or fixed rate. This means that the clients only pay for the results they receive and not for the time it takes me to find them. In this document, I will outline my process for determining pricing, and payment policies.
+Sparkware  smart contract security auditing offers a unique approach to projects that differs from traditional methods. Price is charged based on the number of bugs found in the codebase, rather than an hourly or fixed rate. This means that the clients only pay for the results they receive and not for the time it takes me to find them. In this document, I will outline my process for determining pricing, and payment policies.
 
 ## Pricing:
 
@@ -60,7 +60,7 @@ For each critical severity bug found, we charge 1100 / 100 * 110 * 4 = 4840 USD.
 
 If no bugs are found, there will be no charge.
 
-Shadow force auditing will determine the severity of each bug and confirm with the development team.
+Sparkware  auditing will determine the severity of each bug and confirm with the development team.
 
 The auditing team has the authority to determine the severity of each finding objectively and fairly.
 
@@ -70,7 +70,7 @@ Moreover, this pricing model encourages developers to write safe and bug-free co
 
 ## About us:
 
-Shadow Force Auditing provides a unique and effective approach to auditing services. By charging based on the number of bugs found, my clients only pay for the results they receive, and my bug classification system ensures that issues are addressed in order of severity. My payment policies are fair and transparent, ensuring that clients receive the best value for their investment. I have audited some of the big protocols in the space, such as the graph protocol and optimism. My mission to secure smart contracts and eliminate bugs before they hit production.
+Sparkware Auditing provides a unique and effective approach to auditing services. By charging based on the number of bugs found, my clients only pay for the results they receive, and my bug classification system ensures that issues are addressed in order of severity. My payment policies are fair and transparent, ensuring that clients receive the best value for their investment. I have audited some of the big protocols in the space, such as the graph protocol and optimism. My mission to secure smart contracts and eliminate bugs before they hit production.
 
 Contact us today to learn more about my services and to schedule an audit of your system.
 
@@ -84,6 +84,14 @@ Or ladboy233#0859 from discord, my DM are open!
 
 | Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
+| [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                                         | August 2023 | Code4rena  | 1  | [Link](https://code4rena.com/contests/2023-08-verwa#top)    | |
+| [Confidential]                                         | August 2023 | Independent Project  | N/A  | NA   | |
+| [Arcade](https://code4rena.com/contests/2023-07-arcadexyz#top)                                         | July 2023 |  3  | Code4rena | [Link](https://code4rena.com/contests/2023-07-arcadexyz#top)    | |
+| [Bond option](https://audits.sherlock.xyz/contests/99)                                         | July 2023 | Sherlock  | 1  | [Link](https://audits.sherlock.xyz/contests/99)    | |
+| [Dinari](https://audits.sherlock.xyz/contests/98)                                         | July 2023 | Sherlock  | 1  | [Link](https://audits.sherlock.xyz/contests/98)    | |
+| [Base](https://code4rena.com/contests/2023-05-base#top)                                         | June 2023 | Code4rena  | 2  | [Link](https://code4rena.com/contests/2023-05-base#top)    | |
+| [Confidential](https://immunefi.com/explore/)                                         | April 2023 | Immunefi  | N/A  | [Link](https://immunefi.com/explore/)    | |
+| [Notional V3](https://app.sherlock.xyz/audits/contests/59)                                         | March 2023 | Sherlock  | 4th  | [Link](https://app.sherlock.xyz/audits/contests/59)    | |
 | [Optimism bedrock fix](https://app.sherlock.xyz/audits/contests/38)                                         | March 2023 | Sherlock  | 4th  | [Link](https://app.sherlock.xyz/audits/contests/63)    | |
 | [Optimism bedrock](https://app.sherlock.xyz/audits/contests/38)                                         | February 2023 | Sherlock  | 12th  | [Link](https://app.sherlock.xyz/audits/contests/38)    | |
 | [OpenQ](https://app.sherlock.xyz/audits/contests/39)                                      | February 2023  | Sherlock  | 5th    | [Link](https://app.sherlock.xyz/audits/contests/39)    |
