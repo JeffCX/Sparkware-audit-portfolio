@@ -2,7 +2,7 @@
 
 Feel free to schedule a meeting
 
-https://calendly.com/sparkware-booking/30min
+https://calendly.com/sparkware/30min
 
 and please fill out this google form
 
