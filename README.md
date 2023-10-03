@@ -32,41 +32,8 @@ My payment policies are designed to reflect my commitment to delivering results.
 
 # Detailed Pricing Formula
 
-There is an upper bound payment for the protocol, the cost of the audit will not exceed this number!
+Simple pricing: 20 USD * LOC measured by https://github.com/Consensys/solidity-metrics
 
-upper bound cost = (nSLOC * 50)
-
-For example, if a protocol has 1000 lines of code, the cost is at most 50K USD.
-
-The formula for Price Per Bug is: (nSLOC / 100) * Base Price * Severity Multiplier * Discount Multiplier, 
-
-where Base Price = (nSLOC * 0.1),
-
-Severity Multiplier is based on the severity of the bug: Low: 0.5, Medium: 1, High: 2, Critical: 4, and
-
-Discount Multiplier is 1 for no discount, 0.9 for 10% discount, 0.8 for 20% discount, etc.
-
-Discount Multipler is offered to small projects with limited budget or to partners.
-
-For example, if a project has 1100 lines of code, the base price would be 1100 * 0.1 = 110.
-
-For each low severity bug found, we charge 1100 / 100 * 110 * 0.5 = 605 USD.
-
-For each medium severity bug found, we charge 1100 / 100 * 110 * 1 = 1210 USD.
-
-For each high severity bug found, we charge 1100 / 100 * 110 * 2 = 2420 USD.
-
-For each critical severity bug found, we charge 1100 / 100 * 110 * 4 = 4840 USD.
-
-If no bugs are found, there will be no charge.
-
-Sparkware  auditing will determine the severity of each bug and confirm with the development team.
-
-The auditing team has the authority to determine the severity of each finding objectively and fairly.
-
-The pricing model incentivizes auditors to find genuine bugs that could potentially harm the protocol and its users, and to get paid fairly for their work.
-
-Moreover, this pricing model encourages developers to write safe and bug-free code.
 
 ## About us:
 
@@ -84,6 +51,7 @@ Or ladboy233#0859 from discord, my DM are open!
 
 | Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
+| [livepeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top)                                         | September 2023 | Code4rena  | 2  | [Link]([https://code4rena.com/contests/2023-08-verwa#top](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top))    |
 | [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                                         | August 2023 | Code4rena  | 1  | [Link](https://code4rena.com/contests/2023-08-verwa#top)    | |
 | [Confidential]                                         | August 2023 | Independent Project  | N/A  | NA   | |
 | [Arcade](https://code4rena.com/contests/2023-07-arcadexyz#top)                                         | July 2023 |  3  | Code4rena | [Link](https://code4rena.com/contests/2023-07-arcadexyz#top)    | |
