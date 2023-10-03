@@ -24,16 +24,9 @@ Sparkware  smart contract security auditing offers a unique approach to projects
 
 ## Pricing:
 
-My pricing is based on the complexity of the protocol and the number of lines of code in the system being audited. I will discuss and agree on the cost for each low, medium, and high severity bug found during the audit. then determine a fair and reasonable price based on their budget and the level of risk associated with their smart contract.
-
-Transparency and fairness are important, which is why I provide a clear breakdown of the cost associated with each type of bug found during the audit. This approach ensures that my clients only pay for the value they receive and have a clear understanding of the cost associated with my services.
-
-My payment policies are designed to reflect my commitment to delivering results. Clients will only pay for the bugs found and nothing more. There is no lower limit, and my upper limit payment ensures that clients are not charged exorbitant fees, even if a large number of bugs are found
-
-# Detailed Pricing Formula
-
 Simple pricing: 20 USD * LOC measured by https://github.com/Consensys/solidity-metrics
 
+Or DM for inquiry are also welcome! We can customize a pay-per-vulnerability depends on the complexity for clients!
 
 ## About us:
 
