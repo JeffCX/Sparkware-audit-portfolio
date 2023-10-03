@@ -44,7 +44,7 @@ Or ladboy233#0859 from discord, my DM are open!
 
 | Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
-| [livepeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top)                                         | September 2023 | Code4rena  | 2  | [Link]([https://code4rena.com/contests/2023-08-verwa#top](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top))    |
+| [livepeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top)                                         | September 2023 | Code4rena  | 2  | [Link]([(https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top)]    |
 | [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                                         | August 2023 | Code4rena  | 1  | [Link](https://code4rena.com/contests/2023-08-verwa#top)    | |
 | [Confidential]                                         | August 2023 | Independent Project  | N/A  | NA   | |
 | [Arcade](https://code4rena.com/contests/2023-07-arcadexyz#top)                                         | July 2023 |  3  | Code4rena | [Link](https://code4rena.com/contests/2023-07-arcadexyz#top)    | |
