@@ -24,7 +24,7 @@ Sparkware  smart contract security auditing offers a unique approach to projects
 
 ## Pricing:
 
-Simple pricing: 20 USD * LOC measured by https://github.com/Consensys/solidity-metrics
+Simple pricing: 10 USD * LOC measured by https://github.com/Consensys/solidity-metrics
 
 Or DM for inquiry are also welcome! We can customize a pay-per-vulnerability depends on the complexity for clients!
 
@@ -42,31 +42,39 @@ Or ladboy233#0859 from discord, my DM are open!
 
 ## Public Audit Contest Portfolio
 
-| Contest                                                                                          | Date          | Platform  | Rank   | Report                                                 |
+| Contest                                                                                          | Date          | Kewords  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
-| [livepeer](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top)                                         | September 2023 | Code4rena  | 2  | [Link](https://code4rena.com/contests/2023-08-livepeer-onchain-treasury-upgrade#top)    |
-| [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                                         | August 2023 | Code4rena  | 1  | [Link](https://code4rena.com/contests/2023-08-verwa#top)    | |
+| Olas                                         | January  2024 | AMM, Yield  | Pending  | Pending    |
+| Opus                                         | January  2024 | Lending  | Pending  | Pending    |
+| Renft                                         | January  2024 | NFT, Wallet  | Pending  | Pending    |
+| Superform                                         | December  2023 | Bridge, yield vault  | Pending  | Pending    |
+| [Particle Leverage AMM](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)                                         | December  2023 | Leverage Trading  | 3  | [Link](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)    |
+| [Init Captial](https://code4rena.com/reports/2023-12-initcapital)                                         | December  2023 | Lending  | 3  | [Link](https://code4rena.com/reports/2023-12-initcapital)    |
+| [Beta finance](https://code4rena.com/reports/2023-11-betafinance)                                         | November  2023 | Lending  | 1  | [Link](https://code4rena.com/reports/2023-11-betafinance)    |
+| [Brahma](https://code4rena.com/audits/2023-10-brahma#top)                                         | October 2023 | Wallet  | 3  | [Link](https://code4rena.com/audits/2023-10-brahma#top)    |
+| [Delegate](https://code4rena.com/contests/2023-09-delegate#top)                                         | September 2023 | NFT  | 1  | [Link](https://code4rena.com/contests/2023-09-delegate#top)    |
+| [Canto veRWA](https://code4rena.com/contests/2023-08-verwa#top)                                         | August 2023 | Defi, RWA  | 1  | [Link](https://code4rena.com/contests/2023-08-verwa#top)    | |
 | [Confidential]                                         | August 2023 | Independent Project  | N/A  | NA   | |
-| [Arcade](https://code4rena.com/contests/2023-07-arcadexyz#top)                                         | July 2023 |  3  | Code4rena | [Link](https://code4rena.com/contests/2023-07-arcadexyz#top)    | |
-| [Bond option](https://audits.sherlock.xyz/contests/99)                                         | July 2023 | Sherlock  | 1  | [Link](https://audits.sherlock.xyz/contests/99)    | |
-| [Dinari](https://audits.sherlock.xyz/contests/98)                                         | July 2023 | Sherlock  | 1  | [Link](https://audits.sherlock.xyz/contests/98)    | |
-| [Base](https://code4rena.com/contests/2023-05-base#top)                                         | June 2023 | Code4rena  | 2  | [Link](https://code4rena.com/contests/2023-05-base#top)    | |
+| [Arcade](https://code4rena.com/contests/2023-07-arcadexyz#top)                                         | July 2023 | Governance, NFT  | 3 | [Link](https://code4rena.com/contests/2023-07-arcadexyz#top)    | |
+| [Bond option](https://audits.sherlock.xyz/contests/99)                                         | July 2023 | Option Trading  | 1  | [Link](https://audits.sherlock.xyz/contests/99)    | |
+| [Dinari](https://audits.sherlock.xyz/contests/98)                                         | July 2023 | Defi, Stock Trading  | 1  | [Link](https://audits.sherlock.xyz/contests/98)    | |
+| [Base](https://code4rena.com/contests/2023-05-base#top)                                         | June 2023 | Bridge  | 2  | [Link](https://code4rena.com/contests/2023-05-base#top)    | |
 | [Confidential](https://immunefi.com/explore/)                                         | April 2023 | Immunefi  | N/A  | [Link](https://immunefi.com/explore/)    | |
-| [Notional V3](https://app.sherlock.xyz/audits/contests/59)                                         | March 2023 | Sherlock  | 4th  | [Link](https://app.sherlock.xyz/audits/contests/59)    | |
-| [Optimism bedrock fix](https://app.sherlock.xyz/audits/contests/38)                                         | March 2023 | Sherlock  | 4th  | [Link](https://app.sherlock.xyz/audits/contests/63)    | |
-| [Optimism bedrock](https://app.sherlock.xyz/audits/contests/38)                                         | February 2023 | Sherlock  | 12th  | [Link](https://app.sherlock.xyz/audits/contests/38)    | |
-| [OpenQ](https://app.sherlock.xyz/audits/contests/39)                                      | February 2023  | Sherlock  | 5th    | [Link](https://app.sherlock.xyz/audits/contests/39)    |
-| [Ajna](https://app.sherlock.xyz/audits/contests/32)                                              | January 2023  | Sherlock  | 5th  | [Link](https://app.sherlock.xyz/audits/contests/32)    |
-| [UXD Protocol](https://app.sherlock.xyz/audits/contests/33)                                      | January 2023  | Sherlock  | 3rd    | [Link](https://app.sherlock.xyz/audits/contests/33)    |
-| [Numoen](https://code4rena.com/contests/2023-01-numoen-contest)                                      | January 2023  | Code4rena  | 3rd    | [Link](https://code4rena.com/contests/2023-01-numoen-contest)    |
-| [Lyra finance](https://app.sherlock.xyz/audits/contests/29)                                           | December 2022  | Sherlock  | 4th    | [Link](https://app.sherlock.xyz/audits/contests/29)     |
-| [GoGo Pool](https://code4rena.com/contests/2022-12-gogopool-contest)                                           | December 2022  | Code4rena  | 3rd    | [Link](https://code4rena.com/contests/2022-12-gogopool-contest)     |
-| [Dodo finance](https://app.sherlock.xyz/audits/contests/21)                                           | November 2022  | Sherlock  | 1st    | [Link](https://app.sherlock.xyz/audits/contests/21)     |
-| [Sense finance](https://app.sherlock.xyz/audits/contests/19)                                           | November 2022  | Sherlock  | 2nd    | [Link](https://app.sherlock.xyz/audits/contests/19)     |
-| [Holograph](https://code4rena.com/contests/2022-10-holograph-contest)                                           | October 2022  | Code4rena  | 5th    | [Link](https://code4rena.com/contests/2022-10-holograph-contest)     |
-| [Mycelium](https://app.sherlock.xyz/audits/contests/7)                                           | October 2022  | Sherlock  | 1st    | [Link](https://app.sherlock.xyz/audits/contests/7)     
-| [Notional Finance](https://app.sherlock.xyz/audits/contests/52)                              | October 2022  | Code4rena | 4th    | [Link](https://app.sherlock.xyz/audits/contests/52) |
-| [Graph Protocol L2 Bridge](https://code4rena.com/contests/2022-10-the-graph-l2-bridge-contest)                              | October 2022  | Code4rena | 2nd  | [Link](https://code4rena.com/contests/2022-10-the-graph-l2-bridge-contest) |
+| [Notional V3](https://app.sherlock.xyz/audits/contests/59)                                         | March 2023 | Lending  | 4th  | [Link](https://app.sherlock.xyz/audits/contests/59)    | |
+| [Optimism bedrock fix](https://app.sherlock.xyz/audits/contests/38)                                         | March 2023 | Bridge  | 4th  | [Link](https://app.sherlock.xyz/audits/contests/63)    | |
+| [Optimism bedrock](https://app.sherlock.xyz/audits/contests/38)                                         | February 2023 | Bridge  | 12th  | [Link](https://app.sherlock.xyz/audits/contests/38)    | |
+| [OpenQ](https://app.sherlock.xyz/audits/contests/39)                                      | February 2023  | Decentralized Bounty  | 5th    | [Link](https://app.sherlock.xyz/audits/contests/39)    |
+| [Ajna](https://app.sherlock.xyz/audits/contests/32)                                              | January 2023  | Lending  | 5th  | [Link](https://app.sherlock.xyz/audits/contests/32)    |
+| [UXD Protocol](https://app.sherlock.xyz/audits/contests/33)                                      | January 2023  | Bridge, Defi  | 3rd    | [Link](https://app.sherlock.xyz/audits/contests/33)    |
+| [Numoen](https://code4rena.com/contests/2023-01-numoen-contest)                                      | January 2023  | Defi  | 3rd    | [Link](https://code4rena.com/contests/2023-01-numoen-contest)    |
+| [Lyra finance](https://app.sherlock.xyz/audits/contests/29)                                           | December 2022  | Perpeutual Trading  | 4th    | [Link](https://app.sherlock.xyz/audits/contests/29)     |
+| [GoGo Pool](https://code4rena.com/contests/2022-12-gogopool-contest)                                           | December 2022  | Liquid Staking  | 3rd    | [Link](https://code4rena.com/contests/2022-12-gogopool-contest)     |
+| [Dodo finance](https://app.sherlock.xyz/audits/contests/21)                                           | November 2022  | AMM, Trading  | 1st    | [Link](https://app.sherlock.xyz/audits/contests/21)     |
+| [Sense finance](https://app.sherlock.xyz/audits/contests/19)                                           | November 2022  | yield  | 2nd    | [Link](https://app.sherlock.xyz/audits/contests/19)     |
+| [Holograph](https://code4rena.com/contests/2022-10-holograph-contest)                                           | October 2022  | Bridge, Defi  | 5th    | [Link](https://code4rena.com/contests/2022-10-holograph-contest)     |
+| [Mycelium](https://app.sherlock.xyz/audits/contests/7)                                           | October 2022  | Defi  | 1st    | [Link](https://app.sherlock.xyz/audits/contests/7)     
+| [Notional Finance](https://app.sherlock.xyz/audits/contests/52)                              | October 2022  | Lending | 4th    | [Link](https://app.sherlock.xyz/audits/contests/52) |
+| [Graph Protocol L2 Bridge](https://code4rena.com/contests/2022-10-the-graph-l2-bridge-contest)                              | October 2022  | Bridge | 2nd  | [Link](https://code4rena.com/contests/2022-10-the-graph-l2-bridge-contest) |
 | [Confidential](https://immunefi.com/explore/)                          | September 2022  | Immunefi | N/A    | [Link](https://immunefi.com/explore/) |
 
 
