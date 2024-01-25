@@ -2,7 +2,7 @@
 
 Feel free to schedule a meeting
 
-https://calendly.com/sparkware/30min
+https://calendly.com/crypto-jeff/30min
 
 and please fill out this google form
 
