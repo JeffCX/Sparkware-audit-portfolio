@@ -44,9 +44,7 @@ Or ladboy233#0859 from discord, my DM are open!
 
 | Contest                                                                                          | Date          | Kewords  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
-| Olas-solana                                         | January  2024 | AMM, Yield  | Pending  | Pending    |
-| Opus-starknet                                        | January  2024 | Lending  | Pending  | Pending    |
-| Renft                                        | January  2024 | NFT, Wallet  | Pending  | Pending    |
+| Superform                                         | December  2023 | Bridge, yield vault  | Pending  | Pending    |
 | Superform                                         | December  2023 | Bridge, yield vault  | Pending  | Pending    |
 | [Particle Leverage AMM](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)                                         | December  2023 | Leverage Trading  | 3  | [Link](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)    |
 | [Init Captial](https://code4rena.com/reports/2023-12-initcapital)                                         | December  2023 | Lending  | 3  | [Link](https://code4rena.com/reports/2023-12-initcapital)    |
