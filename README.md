@@ -26,7 +26,11 @@ Sparkware  smart contract security auditing offers a unique approach to projects
 
 Simple pricing: 10 USD * LOC measured by https://github.com/Consensys/solidity-metrics
 
-Or DM for inquiry are also welcome! We can customize a pay-per-vulnerability depends on the complexity for clients!
+Or DM for inquiry are also welcome! We can customize a pay-per-vulnerability depends on the codebase complexity for clients!
+
+We also support subscription model.
+
+**We will first also offer a free threat model analysis consulting service prior to formal auditing** 
 
 ## About us:
 
@@ -44,8 +48,8 @@ Or ladboy233#0859 from discord, my DM are open!
 
 | Contest                                                                                          | Date          | Kewords  | Rank   | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
-| Superform                                         | December  2023 | Bridge, yield vault  | Pending  | Pending    |
-| Superform                                         | December  2023 | Bridge, yield vault  | Pending  | Pending    |
+| Blast                                         | Jan  2024 | Bridge, L2, Infra  | Pending  | Pending    |
+| [Superform](https://twitter.com/cantinaxyz/status/1753111122754810304)                                         | December  2023 | Bridge, yield vault  | 1  | [Link](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)    |
 | [Particle Leverage AMM](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)                                         | December  2023 | Leverage Trading  | 3  | [Link](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)    |
 | [Init Captial](https://code4rena.com/reports/2023-12-initcapital)                                         | December  2023 | Lending  | 3  | [Link](https://code4rena.com/reports/2023-12-initcapital)    |
 | [Beta finance](https://code4rena.com/reports/2023-11-betafinance)                                         | November  2023 | Lending  | 1  | [Link](https://code4rena.com/reports/2023-11-betafinance)    |
