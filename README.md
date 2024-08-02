@@ -6,7 +6,7 @@ https://calendly.com/crypto-jeff/30min
 
 and please fill out this google form
 
-https://t.co/4dlhII2xNk
+https://forms.gle/qaAm88y9ieTiXw1Q6
 
 ## Web3: land of opportunity and risk
 
