@@ -42,12 +42,24 @@ or reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
 
 Or ladboy233#0859 from discord, my DM are open!
 
+## Public bounty and third party audit
+
+- [Immunefi Bounty Profile](https://immunefi.com/profile/ladboy233/)
+- [Thruster Swap Audit](https://github.com/ThrusterX/thruster-blast/blob/main/thruster-audits/thruster-audit-report-update.pdf)
+- [Optimism Fault Dispute Game Audit](https://github.com/spearbit/portfolio/blob/35e01e225519242589ab83f6fad100db892bcfe9/pdfs/Spearbit-Coinbase-Security-Review-June-2024.pdf) (via Spearbit)
+- [Init Capital Audit](https://www.trust-security.xyz/init-capital) (via Trust Security)
+- [Arcadia Finance Audit](https://github.com/arcadia-finance/arcadia-finance-audits/blob/main/audits-v2/TRUST%20SECURITY_Q42023.pdf) (via Trust Security)
+
 ## Public Audit Contest Portfolio
 
-| Contest                                                                                          | Date          | Kewords  | Rank   | Report                                                 |
-| ------------------------------------------------------------------------------------------------ | ------------- | --------- | ------ | ------------------------------------------------------ |
-| Blast                                         | Jan  2024 | Bridge, L2, Infra  | Pending  | Pending    |
-| [Superform](https://twitter.com/cantinaxyz/status/1753111122754810304)                                         | December  2023 | Bridge, yield vault  | 1  | [Link](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)    |
+Here is the updated table with the contest results:
+
+| Contest                                                                                          | Date          | Keywords             | Rank | Report                                                 |
+| ------------------------------------------------------------------------------------------------ | ------------- | -------------------- | ---- | ------------------------------------------------------ |
+| [Chainlink](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/)                                      | July 2024     | Bridge, Cross-chain                | 7    | [Link](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results/?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
+| [Taiko](https://code4rena.com/audits/2024-03-taiko#top)                                          | March 2024    | L1 / L2, Infra               | 6    | [Link](https://code4rena.com/audits/2024-03-taiko#top) |
+| [Init Capital](https://code4rena.com/audits/2024-01-init-capital-invitational#top)               | January 2024  | Defi Lending       | 2    | [Link](https://code4rena.com/audits/2024-01-init-capital-invitational#top) |
+| [Superform](https://twitter.com/cantinaxyz/status/1753111122754810304)                          | December 2023 | Bridge, yield vault  | 1    | [Link](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f) |
 | [Particle Leverage AMM](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)                                         | December  2023 | Leverage Trading  | 3  | [Link](https://code4rena.com/audits/2023-12-particle-leverage-amm-protocol-invitational#top)    |
 | [Init Captial](https://code4rena.com/reports/2023-12-initcapital)                                         | December  2023 | Lending  | 3  | [Link](https://code4rena.com/reports/2023-12-initcapital)    |
 | [Beta finance](https://code4rena.com/reports/2023-11-betafinance)                                         | November  2023 | Lending  | 1  | [Link](https://code4rena.com/reports/2023-11-betafinance)    |
