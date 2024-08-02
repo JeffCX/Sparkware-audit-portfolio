@@ -42,13 +42,13 @@ or reach out to [ladboy233](https://twitter.com/Xc1008Cui) on twitter
 
 Or ladboy233#0859 from discord, my DM are open!
 
-## Public bounty and third party audit
+## Public bounty and audit report
 
-- [Immunefi Bounty Profile](https://immunefi.com/profile/ladboy233/)
-- [Thruster Swap Audit](https://github.com/ThrusterX/thruster-blast/blob/main/thruster-audits/thruster-audit-report-update.pdf)
-- [Optimism Fault Dispute Game Audit](https://github.com/spearbit/portfolio/blob/35e01e225519242589ab83f6fad100db892bcfe9/pdfs/Spearbit-Coinbase-Security-Review-June-2024.pdf) (via Spearbit)
-- [Init Capital Audit](https://www.trust-security.xyz/init-capital) (via Trust Security)
-- [Arcadia Finance Audit](https://github.com/arcadia-finance/arcadia-finance-audits/blob/main/audits-v2/TRUST%20SECURITY_Q42023.pdf) (via Trust Security)
+- [Immunefi Bounty Profile](https://immunefi.com/profile/ladboy233/) 
+- [Thruster Swap Audit](https://github.com/ThrusterX/thruster-blast/blob/main/thruster-audits/thruster-audit-report-update.pdf) - largest Dex in Blast
+- [Optimism Fault Dispute Game Audit](https://github.com/spearbit/portfolio/blob/35e01e225519242589ab83f6fad100db892bcfe9/pdfs/Spearbit-Coinbase-Security-Review-June-2024.pdf) (via Spearbit) - L2 blockchain over 600M+ TVL
+- [Init Capital Audit](https://www.trust-security.xyz/init-capital) (via Trust Security) - [Lending Protocol](https://defillama.com/protocol/init-capital#information) over 100M+ TVL
+- [Arcadia Finance Audit](https://github.com/arcadia-finance/arcadia-finance-audits/blob/main/audits-v2/TRUST%20SECURITY_Q42023.pdf) (via Trust Security) - Lending Protocol 1.7M+ TVL
 
 ## Public Audit Contest Portfolio
 
