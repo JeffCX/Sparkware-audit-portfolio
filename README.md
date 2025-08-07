@@ -56,6 +56,7 @@ Here is the updated table with the contest results:
 
 | Contest                                                                                          | Date          | Keywords             | Rank | Report                                                 |
 | ------------------------------------------------------------------------------------------------ | ------------- | -------------------- | ---- | ------------------------------------------------------ |
+| [Chainlink](https://code4rena.com/audits/2024-11-chainlink)                                      | Nov 2024     | Bridge, Cross-chain                | 1    | [Link](https://code4rena.com/audits/2024-11-chainlink) |
 | [Chainlink](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/)                                      | July 2024     | Bridge, Cross-chain                | 7    | [Link](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP/results/?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | [Taiko](https://code4rena.com/audits/2024-03-taiko#top)                                          | March 2024    | L1 / L2, Infra               | 6    | [Link](https://code4rena.com/audits/2024-03-taiko#top) |
 | [Init Capital](https://code4rena.com/audits/2024-01-init-capital-invitational#top)               | January 2024  | Defi Lending       | 2    | [Link](https://code4rena.com/audits/2024-01-init-capital-invitational#top) |
